@@ -9,5 +9,6 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="ide.tooltip.initialDelay.highlighter" value="0" />
+    <entry key="search.everywhere.pattern.checking" value="false" />
   </component>
 </application>
